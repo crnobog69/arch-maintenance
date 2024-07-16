@@ -1,5 +1,8 @@
 # 🐧 Водич за одржавање Арч Линукса / Arch Linux Maintenance Guide
 
+### (Arch Linux/EndeavourOS/Manjaro Linux/Garuda Linux/Artix Linux/RebornOS/ArchCraft...)
+### За дистрибуције базиране на Арч Линуксу / For distros based on Arch Linux
+
 Добродошли у Водич за одржавање Арч Линукса! Овај README пружа свеобухватан преглед основних задатака одржавања како би ваш Арч Линукс систем радио без проблема. 🚀
 
 Welcome to the Arch Linux Maintenance Guide! This README provides a comprehensive overview of essential maintenance tasks to keep your Arch Linux system running smoothly. 🚀
@@ -145,5 +148,7 @@ Replace `[your_country]` with the name of your country. Use quotes for multi-wor
 - [Арч Линукс Вики: Pacman савети и трикови / Arch Linux Wiki: Pacman tips and tricks](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks)
 
 Не заборавите да прилагодите рутину одржавања према вашим специфичним потребама и конфигурацији система. Редовно одржавање ће помоћи да осигурате стабилан и ефикасан Арч Линукс систем!
+Ако нешто није уреду слободно отворите issue.
 
 Remember to adjust your maintenance routine according to your specific needs and system configuration. Regular maintenance will help ensure a stable and efficient Arch Linux system!
+If something is not right feel free to open an issue.
