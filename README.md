@@ -129,6 +129,8 @@ Update mirror list using reflector (in case of using EndeavourOS, it comes with 
 sudo reflector -c Worldwide -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
+or / или
+
 ```
 sudo reflector -c [your_country] -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 ```
