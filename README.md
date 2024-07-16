@@ -127,6 +127,8 @@ yay
 sudo reflector -c Worldwide -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
+или за одређену државу
+
 ```
 sudo reflector -c [ваша_земља] -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 ```
