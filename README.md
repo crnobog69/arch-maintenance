@@ -3,6 +3,8 @@
 ### (Arch Linux/EndeavourOS/Manjaro Linux/Garuda Linux/Artix Linux/RebornOS/ArchCraft...)
 ### За дистрибуције базиране на Арч Линуксу / For distros based on Arch Linux
 
+---
+
 Добродошли у Водич за одржавање Арч Линукса! Овај README пружа свеобухватан преглед основних задатака одржавања како би ваш Арч Линукс систем радио без проблема. 🚀
 
 Welcome to the Arch Linux Maintenance Guide! This README provides a comprehensive overview of essential maintenance tasks to keep your Arch Linux system running smoothly. 🚀
