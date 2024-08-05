@@ -140,9 +140,9 @@ sudo reflector -c Worldwide -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 sudo reflector -c [your_country] -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
-Замените `[your_country]` именом ваше земље. Користите наводнике за земље са више речи, нпр. 'United States'.
+Замените `[your_country]` именом ваше земље. Користите наводнике за земље са више речи, нпр. 'Serbia'.
 
-Replace `[your_country]` with the name of your country. Use quotes for multi-word countries, e.g., 'United States'.
+Replace `[your_country]` with the name of your country. Use quotes for multi-word countries, e.g., 'Serbia'.
 
 ## 📚 Додатни ресурси / Additional Resources
 
