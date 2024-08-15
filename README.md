@@ -12,13 +12,13 @@ Welcome to the Arch Linux Maintenance Guide! This README provides a comprehensiv
 
 ## 📋 Садржај / Table of Contents
 
-- [Провере здравља система / System Health Checks](#-провере-здравља-система--system-health-checks)
-- [Ажурирања / Updates](#-ажурирања--updates)
-- [Управљање пакетима / Package Management](#-управљање-пакетима--package-management)
-- [Чишћење / Cleaning](#-чишћење--cleaning)
-- [Управљање дневницима / Log Management](#-управљање-дневницима--log-management)
-- [Оптимизација листе огледала / Mirror List Optimization](#-оптимизација-листе-огледала--mirror-list-optimization)
-- [Додатни ресурси / Additional Resources](#-додатни-ресурси--additional-resources)
+- 🩺 [Провере здравља система / System Health Checks](#-провере-здравља-система--system-health-checks)
+- 🔄 [Ажурирања / Updates](#-ажурирања--updates)
+- 📦 [Управљање пакетима / Package Management](#-управљање-пакетима--package-management)
+- 🧹 [Чишћење / Cleaning](#-чишћење--cleaning)
+- 📝 [Управљање дневницима / Log Management](#-управљање-дневницима--log-management)
+- 🌍 [Оптимизација листе огледала / Mirror List Optimization](#-оптимизација-листе-огледала--mirror-list-optimization)
+- 📚 [Додатни ресурси / Additional Resources](#-додатни-ресурси--additional-resources)
 
 ## 🩺 Провере здравља система / System Health Checks
 
@@ -123,7 +123,7 @@ yay
    sudo journalctl --vacuum-time=1day
    ```
 
-## 🌐 Оптимизација листе огледала / Mirror List Optimization
+## 🌍 Оптимизација листе огледала / Mirror List Optimization
 
 Ажурирање листе огледала помоћу reflector-а (у случају коришђења EndeavourOS-а он долази са GUI за reflector) / Update mirror list using reflector (in case of using EndeavourOS, it comes with a GUI for reflector):
 
