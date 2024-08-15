@@ -58,23 +58,19 @@ yay
    ```
    sudo pacman -Sc
    ```
-
-2. **Чишћење pacman и yay кеша (сви пакети *ОПАСНО / може дођи до проблема са системом*) / Clean pacman and yay cache (all packages *DANGEROUS / may cause system issues*):**
+2. **Чишћење AUR кеша (пакети који нису инсталирани / некоришћени) / Clean AUR cache (packages not installed / unused):**
+   ```
+   yay -Sc
+   ```
+3. **Уклањање нежељених зависности (orphaned packages) / Remove unwanted dependencies (orphaned packages):**
+   ```
+   yay -Yc
+   ```
+4. **Чишћење pacman и yay кеша (сви пакети *ОПАСНО / може дођи до проблема са системом*) / Clean pacman and yay cache (all packages *DANGEROUS / may cause system issues*):**
    ```
    sudo pacman -Scc
    yay -Scc
    ```
-
-3. **Чишћење AUR кеша (пакети који нису инсталирани / некоришћени) / Clean AUR cache (packages not installed / unused):**
-   ```
-   yay -Sc
-   ```
-
-4. **Уклањање нежељених зависности (orphaned packages) / Remove unwanted dependencies (orphaned packages):**
-   ```
-   yay -Yc
-   ```
-
 5. **Провера сирочади пакета / Check for orphaned packages:**
    ```
    pacman -Qtdq
