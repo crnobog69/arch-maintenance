@@ -107,35 +107,35 @@ yay
 
 или / or
 
-```
+   ```
    sudo journalctl --vacuum-time=1week
-```
+   ```
 
 или / or
 
-```
+   ```
    sudo journalctl --vacuum-time=3days
-```
+   ```
 
 или / or
 
-```
+   ```
    sudo journalctl --vacuum-time=1day
-```
+   ```
 
 ## 🌐 Оптимизација листе огледала / Mirror List Optimization
 
 Ажурирање листе огледала помоћу reflector-а (у случају коришђења EndeavourOS-а он долази са GUI за reflector) / Update mirror list using reflector (in case of using EndeavourOS, it comes with a GUI for reflector):
 
-```
-sudo reflector -c Worldwide -a 6 --sort rate --save /etc/pacman.d/mirrorlist
-```
+   ```
+   sudo reflector -c Worldwide -a 6 --sort rate --save /etc/pacman.d/mirrorlist
+   ```
 
 или / or
 
-```
-sudo reflector -c [your_country] -a 6 --sort rate --save /etc/pacman.d/mirrorlist
-```
+   ```
+   sudo reflector -c [your_country] -a 6 --sort rate --save /etc/pacman.d/mirrorlist
+   ```
 
 Замените `[your_country]` именом ваше земље. Користите наводнике за земље са више речи, нпр. 'Serbia'.
 
