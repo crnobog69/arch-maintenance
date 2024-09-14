@@ -145,6 +145,7 @@ Replace `[your_country]` with the name of your country. Use quotes for multi-wor
 
 - [Арч Линукс Вики: Одржавање система / Arch Linux Wiki: System maintenance](https://wiki.archlinux.org/title/System_maintenance)
 - [Арч Линукс Вики: Pacman савети и трикови / Arch Linux Wiki: Pacman tips and tricks](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks)
+- [A Complete Idiot’s Guide To Endeavour OS Maintenance / Update / Upgrade](https://forum.endeavouros.com/t/a-complete-idiots-guide-to-endeavour-os-maintenance-update-upgrade/25184)
 
 Не заборавите да прилагодите рутину одржавања према вашим специфичним потребама и конфигурацији система. Редовно одржавање ће помоћи да осигурате стабилан и ефикасан Арч Линукс систем!
 Ако нешто није уреду слободно отворите issue.
