@@ -1,7 +1,7 @@
 # 🐧 Водич за одржавање Арч Линукса / Arch Linux Maintenance Guide
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P311PGR8)
 
-### (Arch Linux/EndeavourOS/Manjaro Linux/Garuda Linux/Artix Linux/RebornOS/ArchCraft...)
+### (Arch Linux/EndeavourOS/CachyOS/Manjaro Linux/Garuda Linux/Artix Linux/RebornOS/ArchCraft...)
 ### За дистрибуције базиране на Арч Линуксу / For distros based on Arch Linux
 
 ---
